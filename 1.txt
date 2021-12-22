@@ -1,4 +1,9 @@
 123445
+<<<<<<< HEAD
 
 TEST QA
 TESTDEV
+=======
+TESTDEV
+12345
+>>>>>>> DEV
